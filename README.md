@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahaanah Jayakumar
 - 👀 I’m interested in data analysis and exploration
-- 🌱 I’m currently doing my Master's in Data Analytics in University of Central Florida
+- 🌱 I’m a Master's in Data Analytics graduate from University of Central Florida
 - 💞️ I’m looking to collaborate on Data Science, ML and AI projects
 - 📫 How to reach me - sahaanah.jk@gmail.com
 - 
