@@ -3,7 +3,7 @@
 - 🌱 I’m a Master's in Data Analytics graduate from University of Central Florida
 - 💞️ I’m looking to collaborate on Data Science, ML and AI projects
 - 📫 How to reach me - sahaanah.jk@gmail.com
-- 
+
 
 <!---
 Sahaanah/Sahaanah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
